@@ -1,1 +1,5 @@
 travis/.ssh/id_rsa
+/node_modules
+/sites/blog/node_modules
+/sites/blog/.cache
+/sites/blog/public

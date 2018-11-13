@@ -1,0 +1,17 @@
+{
+  "name": "grids-and-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stefan Huber <sh@signalwerk.ch>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "yarn workspace grids-and-modules.blog build",
+    "start": "yarn develop",
+    "develop": "yarn workspace grids-and-modules.blog develop"
+  },
+  "workspaces": [
+    "themes/*",
+    "sites/*"
+  ]
+}
