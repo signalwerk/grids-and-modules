@@ -11,8 +11,8 @@ module.exports = {
   ],
 
   siteMetadata: {
-    title: 'Blog',
-    author: 'Alexander Bönninger',
-    authorUrl: 'http://alexanderboenninger.de/',
+    title: 'Grids and modules',
+    author: 'Stefan Huber',
+    authorUrl: 'http://signalwerk.ch/',
   },
 };
